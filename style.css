@@ -6,6 +6,10 @@ body {
 
 }
 
+h1 {
+    margin-left: 20%;
+}
+
 header {
     background-image: url("https://cdn.britannica.com/51/190751-050-147B93F7/soccer-ball-goal.jpg?q=60");
     width: 100%;
@@ -76,7 +80,8 @@ footer a {
 h1 {
     margin-top: 10%;
     margin-left: 30%;
-    font-family: 'Lobster', cursive;
+    font-family: 'Lobster';
     color: wheat;
     font-size: 80px;
 }
+
