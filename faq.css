@@ -1,0 +1,32 @@
+.question {
+    font-weight: bold;
+    font-size: large;
+    color: blue;
+
+}
+
+.question::before{
+    content: "Q.";
+    padding-right: 5px;
+}
+
+.answer {
+    font-style: italic;
+
+}
+
+ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  
+  li {
+    padding-left: 1em;
+    text-indent: -1em;
+  }
+  
+  .answer::before {
+    content: "A.";
+    padding-right: 5px;
+  }
