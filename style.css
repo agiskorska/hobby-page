@@ -1,13 +1,16 @@
 body {
     background-color: rgb(214, 214, 255);
-    box-sizing: content-box;
     margin: 0;
     padding: 0;
 
 }
 
-h1 {
-    margin-left: 20%;
+h2 {
+    text-align: center;
+}
+
+a:hover {
+    color: blue;
 }
 
 header {
@@ -81,7 +84,7 @@ h1 {
     margin-top: 10%;
     margin-left: 30%;
     font-family: 'Lobster';
-    color: wheat;
+    color: rgb(253, 165, 1);
     font-size: 80px;
 }
 
